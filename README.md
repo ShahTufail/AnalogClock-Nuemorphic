@@ -32,7 +32,7 @@
 
 
 # *Author*
-LinkedIn: https://www.linkedin.com/in/tufail-shah619/ <br>
-Github Profile: https://github.com/ShahTufail <br>
-Twitter: @tufailmsg <br>
 Email: shahtuffey@gmail.com
+Skype: @tufailmsg <br>
+LinkedIn: https://www.linkedin.com/in/tufail-shah619/ <br>
+Twitter: @tufailmsg <br>
