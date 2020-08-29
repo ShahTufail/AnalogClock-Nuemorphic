@@ -32,7 +32,7 @@
 
 
 # *Author*
-Email: shahtuffey@gmail.com
+Email: shahtuffey@gmail.com <br>
 Skype: @tufailmsg <br>
 LinkedIn: https://www.linkedin.com/in/tufail-shah619/ <br>
 Twitter: @tufailmsg <br>
