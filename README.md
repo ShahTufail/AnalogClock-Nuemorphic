@@ -1,24 +1,24 @@
 
-# Analog Clock
-
-### *Features*:
-* User-friendly
-* Displays current Time
-* Neomorphic Interface
-* Added Themes: Dark Mode <-> Light Mode
+# Personal Project
 
 
-## *Features to be added*
+## *Features *
+Personal Project to be added that i have been working on or testing new project for latest languages
+# Specific Branches for different projects is being maintained
 
-- Adding Timezones
-- Adding a stopwatch / timer (countdowns)
 
 
-## *Technologies used*
 
-- HTML5
-- CSS3 (with Flexbox)
-- Vanilla Javascript
+## *Technologies*
+
+- HTML5/CSS3
+- Javascript
+- Vue
+- React
+- Ruby on Rails
+- Python
+- Sass
+
 
 
 ## *References*
@@ -28,10 +28,12 @@
 * For Neomorphism: [Writing CSS for Neomorphism](https://www.youtube.com/watch?v=Gv0dy51SYL0)
 * Help for Neomorphism: [Neomorphism](https://neumorphism.io/)
 * More about Neomorphism: [CSS-tricks](https://css-tricks.com/neumorphism-and-css/)
+* 
 
 
 
 # *Author*
+Skype: TUFAILMSG
 LinkedIn: https://www.linkedin.com/in/tufail-shah619/ <br>
 Github Profile: https://github.com/ShahTufail <br>
 Twitter: @tufailmsg <br>
