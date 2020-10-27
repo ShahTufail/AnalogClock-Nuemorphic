@@ -32,7 +32,7 @@
 
 
 # *Author*
-<h3> Tufail Mehraj </h3> <br>
-Skype: @tufailmsg <br>
-LinkedIn: https://www.linkedin.com/in/tufail-shah619/ <br>
-Twitter: @tufailmsg <br>
+<h3> Tufail Mehraj </h3>
+*Skype*: @tufailmsg <br>
+*Twitter*: @tufailmsg <br>
+*LinkedIn*: https://www.linkedin.com/in/tufail-shah619/ <br>
