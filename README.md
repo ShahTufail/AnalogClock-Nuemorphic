@@ -3,7 +3,7 @@
 
 ### *Features*:
 * User-friendly
-* Displays current Time
+* Displays Local Time
 * Neomorphic Interface
 * Added Themes: Dark Mode <-> Light Mode
 
