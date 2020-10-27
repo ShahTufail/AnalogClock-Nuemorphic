@@ -11,6 +11,7 @@
 ## *Features to be added*
 
 - Adding Timezones
+- Adding digital clocks underneath for different timezones
 - Adding a stopwatch / timer (countdowns)
 
 
