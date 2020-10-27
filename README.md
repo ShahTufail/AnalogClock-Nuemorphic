@@ -33,6 +33,6 @@
 
 # *Author*
 <h3> Tufail Mehraj </h3>
-*Skype*: @tufailmsg <br>
-*Twitter*: @tufailmsg <br>
-*LinkedIn*: https://www.linkedin.com/in/tufail-shah619/ <br>
+Skype: @tufailmsg <br>
+Twitter: @tufailmsg <br>
+LinkedIn: https://www.linkedin.com/in/tufail-shah619/ <br>
