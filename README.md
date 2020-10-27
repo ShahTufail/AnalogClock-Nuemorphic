@@ -32,8 +32,7 @@
 
 
 # *Author*
-Tufail Mehraj
-Email: shahtuffey@gmail.com <br>
+<h3> Tufail Mehraj </h3> <br>
 Skype: @tufailmsg <br>
 LinkedIn: https://www.linkedin.com/in/tufail-shah619/ <br>
 Twitter: @tufailmsg <br>
