@@ -2,7 +2,7 @@
 # Analog Clock
 
 ### *Features*:
-* User-friendly
+* User-friendly 
 * Displays Local Time
 * Neomorphic Interface
 * Themes: Dark <-> Light (Toggle)
